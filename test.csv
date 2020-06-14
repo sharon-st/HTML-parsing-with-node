@@ -1,0 +1,12 @@
+Answer,Genre,Option1,Option2,Option3,Option4,Q_id,Question
+Option1,Control and Data Entry,Matrix array of infrared beams,Light beams,reduce pilot work load,Microwave beams,1,What type of beams are used for the tactical control panel?
+Option1,Control and Data Entry,Direct voice input,Digitally vectored input,reduce pilot work load,Direct vectored input,2,What is DVI control?
+Option3,Control and Data Entry,Flight data computer,Air Data Computer,reduce pilot work load,Central command center,3,"In a DVI control, which system recognizes the pilot’s control?"
+Option3,Control and Data Entry,less weight,latest technology,reduce pilot work load,space constraints,4,The main reason for DVI control system in aircraft is _____________
+Option3,Control and Data Entry,Systems that can recognize anyone’s voice,System that is not fully voice commanded,reduce pilot work load,Systems that only accept one-word command,5,What are isolated word recognizers?
+Option2,Control and Data Entry,True,False,,,6,The DVI control system need not be super sensitive to the voice of the pilot.
+Option4,Control and Data Entry,Communication with ATC,Communication with another aircraft,reduce pilot work load,Warning messages to pilot,7,What is the reason for using speech synthesizers in aircrafts?
+Option3,Control and Data Entry,autopilot,flight management system,reduce pilot work load,flight control computer,8,The audio/tactile management system combined with FBW and automated engine control is called ________
+Option2,Control and Data Entry,Improve concentration,Improve accuracy for targeting,reduce pilot work load,Assist in high g maneuvers,9,What is the role of eye trackers in cockpits?
+Option2,Control and Data Entry,Better sound clarity,Warning sound from the actual direction of a threat,reduce pilot work load,To hear sound external to the aircraft,10,Why is the stereo sound warning system used?
+Option2,Control and Data Entry,True,False,,,11,Only the pilot of a particular aircraft can use its DVI control system?
